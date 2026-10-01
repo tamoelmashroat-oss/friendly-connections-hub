@@ -1,3 +1,3 @@
 # Roadmap
 
-- [ ] Connect user's Supabase project "tamoelmashroat-oss's Project" — blocked: Supabase connection requires user to link via Project Settings → Connectors → Supabase (OAuth in browser); cannot be done from chat.
+- [ ] Connect user's Supabase project "tamoelmashroat-oss's Project" — blocked: project already linked to an external Supabase (ref icgrvgpchoefmpeqljrx); switching requires the user to disconnect it in Project Settings → Integrations, then reconnect via Supabase OAuth. No agent tool exists for this.
